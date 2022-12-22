@@ -3,4 +3,4 @@
 sudo apt update
 sudo apt-get install figlet
 
-figlet Wesołych świąt
+figlet Wesolych Swiat 
